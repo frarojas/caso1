@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Map Template](image.png)
+![Map Template](./images/image.png)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![Goal Diagram](./goalDiagram.drawio.png)
+![Goal Diagram](./images/goalDiagram.drawio.png)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-![Wireframes](Wireframes.jpg)
+![Wireframes](./images/Wireframes.jpg)
 
 </div>
 
@@ -84,17 +84,35 @@
 
 <div align="center">
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 
-![alt text](image-5.png)
+![alt text](./images/image-5.png)
 
-![alt text](image-6.png)
+![alt text](./images/image-6.png)
 </div>
 
 ## 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados.
+
+![alt text](./images/image-7.png)
+
+![alt text](./images/image-8.png)
+
+![alt text](./images/image-9.png)
+
+![alt text](./images/image-10.png)
+
+![alt text](./images/image-11.png)
+
+![alt text](./images/image-12.png)
+
+![alt text](./images/image-13.png)
+
+![alt text](./images/image-14.png)
+
+![alt text](./images/image-15.png)
